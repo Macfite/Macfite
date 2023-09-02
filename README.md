@@ -1,6 +1,7 @@
 ## Victor Pires, java developer & product owner
-Tenho 4 anos de experiência com desenvolvimento productos, sendo os último focado em desenvolvimento backend.
+Tenho 4 anos de experiência com desenvolvimento produtos, sendo o último focado em desenvolvimento backend.
 Já atuei em projetos de diferentes setores, atualmente estou revolucionando o setor jurídico com a KOR Solutions.
+
 
 <div align="left">
   <a href="https://github.com/macfite">
