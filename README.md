@@ -1,12 +1,11 @@
 ## Victor Pires
 ### product designer & front-end
-Product designer sênior com experiência em desenvolvimento web.
-
 
 <div align="left">
   <a href="https://github.com/macfite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macfite&layout=compact&langs_count=7&theme=github_dark"/></a>
 </div>
+Product designer sênior com experiência em desenvolvimento web.
 
   ##
  
