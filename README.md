@@ -1,4 +1,5 @@
-## Victor Pires, java developer & product owner
+## Victor Pires
+### product designer & front-end
 Product designer sênior com experiência em desenvolvimento web.
 
 
